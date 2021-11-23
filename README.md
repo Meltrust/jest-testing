@@ -4,8 +4,7 @@
 > Practice for writing jest test for plain Javascript projects.
 
 
-Here I made setup the Jest testing framework.  Wrote tests for stringLength, reverseString, capitalize functions, and also for a calculator.  Made sure all test passed.
-
+Here I made setup the Jest testing framework.  Wrote tests for "stringLength", "reverseString", and "capitalize" functions, and also for a calculator.  I made sure all tests pass.
 
 ## Built With
 
